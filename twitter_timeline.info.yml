@@ -1,0 +1,5 @@
+name: Twitter timeline
+type: module
+description: Display twitter timeline in a block.
+core: 8.x
+package: Other

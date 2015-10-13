@@ -1,0 +1,4 @@
+twitter-wjs:
+  version: VERSION
+  js:
+    //platform.twitter.com/widgets.js: { type : external, minified : true }{ type : external, minified : true }
